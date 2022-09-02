@@ -1,0 +1,31 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #153f59;
+  display: block;
+}
+
+img {
+  width: 450px;
+  height: 350px;
+  margin-left: 5%;
+  margin-top: 7%;
+}
+
+p {
+  position: absolute;
+  color: white;
+  margin-top: 10%;
+  font-size: 20px;
+  margin-left: 2%;
+  top: 860px;
+  right: 150px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  position: absolute;
+  font-size: 30px;
+  top: 1300px;
+  right: 20px;
+}
